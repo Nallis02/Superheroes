@@ -143,7 +143,7 @@ a img {
 }
 @media (max-width: 768px) {
     body {
-        background: #ffff0030;
+        background: #ccc;
     }
     .contenedor-btn {
         width:70px;
@@ -204,6 +204,6 @@ a img {
 }
 @media screen and (max-width: 480px) and (orientation: portrait){
     body {
-        background-color: burlywood;
+        background-color: #ccc;
     }
 }
